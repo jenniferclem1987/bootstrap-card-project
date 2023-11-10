@@ -1,0 +1,9 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.card img{
+    height: 300px;
+    width: 260px;
+}
